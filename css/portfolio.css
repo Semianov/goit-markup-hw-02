@@ -15,6 +15,9 @@ body {
 ul {
   list-style: none;
 }
+a {
+  text-decoration-line: none;
+}
 .site-nav a {
   color: #212121;
   text-decoration-line: none;

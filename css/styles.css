@@ -1,6 +1,7 @@
 body {
   background-color: #e5e5e5;
   color: #212121;
+  font-family: Roboto;
 }
 ul {
   list-style: none;
@@ -8,3 +9,19 @@ ul {
 a {
   text-decoration-line: none;
 }
+.bluelogo {
+  color: #2196f3;
+}
+.blacklogo {
+  color: black;
+}
+}
+.studio .link:hover
+{
+  color: #2196F3;
+}
+.heroi {color: #FFFFFF;
+width: 696px;
+height: 120px;
+left: 452px;
+top: 280px;}
