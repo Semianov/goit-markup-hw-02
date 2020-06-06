@@ -9,6 +9,11 @@ ul {
 a {
   text-decoration-line: none;
 }
+.site-logo {
+  width: 1600px;
+  height: 80px;
+  background: #ffffff;
+}
 .bluelogo {
   color: #2196f3;
 }
@@ -19,11 +24,18 @@ a {
   color: #2196f3;
 }
 .heroi {
-  color: #ffffff;
+  width: 1600px;
+
+  background: rgba(47, 48, 58, 0.8);
+}
+.heroi h1 {
   width: 696px;
   height: 120px;
-  left: 452px;
-  top: 280px;
+
+  font-size: 44px;
+  line-height: 60px;
+
+  color: #ffffff;
 }
 .button-style a {
   background: #2196f3;
@@ -36,24 +48,64 @@ a {
   color: #212121;
   width: 270px;
   height: 16px;
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: bold;
+
   font-size: 14px;
 }
 .section-advantages p {
   color: #332323;
   width: 270px;
-  height: 75px;
-  left: 215px;
-  top: 950px;
-  font-family: Roboto;
+
   font-size: 14px;
 }
 .our-work h2 {
   color: #212121;
   width: 376px;
-  height: 42px;
-  font-weight: bold;
+
   font-size: 36px;
+}
+.our-work p {
+  color: #ffffff;
+  width: 205px;
+  height: 16px;
+
+  font-size: 14px;
+}
+.our-team {
+  background: #f5f4fa;
+  width: 1600px;
+}
+.our-team h2 {
+  width: 264px;
+  height: 42px;
+
+  font-size: 36px;
+
+  color: #212121;
+}
+.our-team h3 {
+  width: 157px;
+  height: 19px;
+
+  font-size: 16px;
+
+  color: #212121;
+}
+.our-team p {
+  width: 130px;
+  height: 19px;
+  font-size: 16px;
+  color: #757575;
+}
+
+.footer-address {
+  width: 1600px;
+  height: 253px;
+  left: 1px;
+  top: 2671px;
+
+  background: #2f303a;
+}
+.client h2 {
+  width: 390px;
+  height: 42px;
 }
