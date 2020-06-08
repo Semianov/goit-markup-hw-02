@@ -54,7 +54,10 @@ p {
 .address {
   color: #ffffff;
 }
-.mail-tel {
+.footer-mail {
+  color: rgba(255, 255, 255, 0.6);
+}
+.footer-tel {
   color: rgba(255, 255, 255, 0.6);
 }
 h3 {
