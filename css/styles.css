@@ -19,6 +19,12 @@ a {
 .blacklogo {
   color: black;
 }
+.mail-color {
+  color: #2196f3;
+}
+.number-color {
+  color: #757575;
+}
 .studio .link:hover {
   color: #2196f3;
 }
