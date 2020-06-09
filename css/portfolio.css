@@ -35,13 +35,11 @@ a {
 .number-color {
   color: #757575;
 }
-.section-nav a {
-  color: #212121;
+.section-nav .button:hover {
   text-decoration-line: none;
-}
-.section-nav .link:hover {
   color: #2196f3;
 }
+
 h2 {
   color: #212121;
 }
