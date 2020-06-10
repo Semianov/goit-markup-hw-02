@@ -3,6 +3,12 @@ body {
   color: #212121;
   text-decoration-line: none;
 }
+.header-color-link a {
+  color: #757575;
+}
+.header-color-link .link:hover {
+  color: #2196f3;
+}
 .bluelogo {
   color: #2196f3;
   text-decoration-line: none;
@@ -29,12 +35,7 @@ a {
 .site-logo .blacklogo:hover {
   color: #2196f3;
 }
-.mail-color {
-  color: #2196f3;
-}
-.number-color {
-  color: #757575;
-}
+
 .section-nav .button:hover {
   text-decoration-line: none;
   color: #2196f3;

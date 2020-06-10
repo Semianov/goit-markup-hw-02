@@ -1,13 +1,23 @@
 body {
   background-color: #e5e5e5;
   color: #212121;
-  font-family: Roboto;
 }
-ul {
-  list-style: none;
+.header-color-link a {
+  color: #757575;
+}
+.header-color-link .link:hover {
+  color: #2196f3;
+}
+
+h1,
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
 }
 a {
   text-decoration-line: none;
+}
+ul {
+  list-style: none;
 }
 .site-logo {
   width: 1600px;
@@ -19,12 +29,7 @@ a {
 .blacklogo {
   color: black;
 }
-.mail-color {
-  color: #2196f3;
-}
-.number-color {
-  color: #757575;
-}
+
 .studio .link:hover {
   color: #2196f3;
 }
